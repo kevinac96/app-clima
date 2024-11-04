@@ -1,0 +1,38 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(65, 99, 128);
+    color: white;
+}
+
+.container {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(11, 41, 66);
+    box-shadow: 0 2px 4px rgb(53, 53, 53);
+}
+
+h1, h2, p {
+    color: white;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(70, 109, 160);
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+#responsiveData {
+    margin-top: 20px;
+    font-size: 18px;
+}
